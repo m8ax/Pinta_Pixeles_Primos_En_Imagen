@@ -7,7 +7,6 @@
 #
 ##############################################################################################################################
 
-from diffusers import OnnxStableDiffusionPipeline
 from PIL.PngImagePlugin import PngInfo
 from PIL import Image, ImageChops, ImageEnhance, ImageOps
 import time
